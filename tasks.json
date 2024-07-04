@@ -1,0 +1,47 @@
+{
+    "1": {
+        "title": "Pytho Flask Tutorial",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available",
+        "time": "sunday"
+    },
+    "2": {
+        "title": "DJango Project Practice",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available",
+        "time": "Monday 7 am"
+    },
+    "3": {
+        "title": "Stripe Payment Intigration",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available",
+        "time": "Satarday"
+    },
+    "4": {
+        "title": "DJango Celery ",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available",
+        "time": "Monday 7 am"
+    },
+    "5": {
+        "title": "Test Task",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available",
+        "time": "Satarday"
+    },
+    "6": {
+        "title": "New Test",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available",
+        "time": "dvdfvf"
+    },
+    "7": {
+        "title": "anathe rtask",
+        "description": "task_id = max(map(int, task_details.keys()), default=0) + 1 if task_details else 1\r\n\r\n",
+        "time": "sfvsfv"
+    },
+    "8": {
+        "title": "fvfv",
+        "description": "dfvdfv",
+        "time": "dfdfgb"
+    },
+    "9": {
+        "title": "dgbdfgb g",
+        "description": "gdbfdgbv ",
+        "time": "gbdgb"
+    }
+}
